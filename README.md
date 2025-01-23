@@ -36,6 +36,7 @@ Mappaszerkezet:
 - Lehetőség hogy a bot endPoint segítségével küldjön üzenetet a Discordra (pl. egy webhook segítségével)
 
 
+```
 Szerepek:
 - Bot fejlesztő
 @Kitti0403
