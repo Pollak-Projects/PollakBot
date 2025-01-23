@@ -23,3 +23,14 @@ Mappaszerkezet:
 │   ├──frontend
 │   ├──backend
 │   ├──README.md
+
+## Feladatok
+- Ismerkedés a Discord API-val
+- Ismerkedés a Node.js-el
+- Bot alapszintű funkcionalitásainak megvalósítása
+- Bot kódjának struktúrájának kialakítása
+- Bot kódjának tesztelése
+- Web interfész kialakítása
+- Web interfész és bot összekapcsolása
+- Web interfész és bot közötti kommunikáció megvalósítása
+- Lehetőség hogy a bot endPoint segítségével küldjön üzenetet a Discordra (pl. egy webhook segítségével)
