@@ -34,3 +34,15 @@ Mappaszerkezet:
 - Web interfész és bot összekapcsolása
 - Web interfész és bot közötti kommunikáció megvalósítása
 - Lehetőség hogy a bot endPoint segítségével küldjön üzenetet a Discordra (pl. egy webhook segítségével)
+
+
+Szerepek:
+- Bot fejlesztő
+@Kitti0403
+@FaboRobi
+@Csilluslol
+@DobaSandor
+- Web fejlesztő
+@LakatosRonaldo
+@Kiscsuri7s
+@GereDaniel
